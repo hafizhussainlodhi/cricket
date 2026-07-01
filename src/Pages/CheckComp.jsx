@@ -22,8 +22,6 @@ export default function CheckComp() {
 
             {/* Content */}
             <section className="flex-1 flex flex-col items-center text-center px-6 z-10 w-full pt-6">
-                <h1 className="mt-6 text-2xl font-semibold">Activation Flow</h1>
-                
                 <div className="mt-12">
                     <p className="text-xl">Let's Check</p>
                     <h2 className="text-2xl font-semibold leading-tight text-[#41A438]">Your Device Compatibility</h2>
